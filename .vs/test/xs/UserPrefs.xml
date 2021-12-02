@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{69496636-9BD0-4487-B045-4B88893BB32B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="test/App.xaml">
+    <Files>
+      <File FileName="test/Views/WordCounterPage.xaml" Line="19" Column="159" />
+      <File FileName="test/Views/WordCounterPage.xaml.cs" />
+      <File FileName="test/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="test/ViewModels/WordCounterViewModel.cs" Line="18" Column="25" />
+      <File FileName="test/Models/WordCounter.cs" Line="11" Column="24" />
+      <File FileName="test/App.xaml" Line="5" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test" expanded="True">
+            <Node name="test" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="WordCounterPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.test.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.492D6F4F-FD0B-4749-85A2-24FC855E8874" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.test.Android FirstBuild="True" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

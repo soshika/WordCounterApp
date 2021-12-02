@@ -1,0 +1,16 @@
+/Users/soshika/Projects/test/test/bin/Debug/netstandard2.0/test.deps.json
+/Users/soshika/Projects/test/test/bin/Debug/netstandard2.0/test.dll
+/Users/soshika/Projects/test/test/bin/Debug/netstandard2.0/ref/test.dll
+/Users/soshika/Projects/test/test/bin/Debug/netstandard2.0/test.pdb
+/Users/soshika/Projects/test/test/obj/Debug/netstandard2.0/test.csproj.AssemblyReference.cache
+/Users/soshika/Projects/test/test/obj/Debug/netstandard2.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soshika/Projects/test/test/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/soshika/Projects/test/test/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/soshika/Projects/test/test/obj/Debug/netstandard2.0/Views/WordCounterPage.xaml.g.cs
+/Users/soshika/Projects/test/test/obj/Debug/netstandard2.0/test.AssemblyInfoInputs.cache
+/Users/soshika/Projects/test/test/obj/Debug/netstandard2.0/test.AssemblyInfo.cs
+/Users/soshika/Projects/test/test/obj/Debug/netstandard2.0/test.csproj.CoreCompileInputs.cache
+/Users/soshika/Projects/test/test/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/soshika/Projects/test/test/obj/Debug/netstandard2.0/test.dll
+/Users/soshika/Projects/test/test/obj/Debug/netstandard2.0/ref/test.dll
+/Users/soshika/Projects/test/test/obj/Debug/netstandard2.0/test.pdb
