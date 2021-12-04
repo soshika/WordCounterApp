@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{69496636-9BD0-4487-B045-4B88893BB32B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="test.Android/MainActivity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="test/Views/popup/IntroductionPopup.xaml.cs">
     <Files>
       <File FileName="test/Views/WordCounterPage.xaml" Line="20" Column="85" />
       <File FileName="test/Views/WordCounterPage.xaml.cs" Line="21" Column="85" />
@@ -8,8 +8,8 @@
       <File FileName="test/Models/WordCounter.cs" />
       <File FileName="test/App.xaml" />
       <File FileName="../../.nuget/packages/rg.plugins.popup/2.0.0.14/readme.txt" Line="1" Column="1" />
-      <File FileName="test/Views/popup/IntroductionPopup.xaml" Line="32" Column="72" />
-      <File FileName="test/Views/popup/IntroductionPopup.xaml.cs" Line="14" Column="10" />
+      <File FileName="test/Views/popup/IntroductionPopup.xaml" Line="2" Column="17" />
+      <File FileName="test/Views/popup/IntroductionPopup.xaml.cs" Line="9" Column="51" />
       <File FileName="test.iOS/Main.cs" Line="17" Column="1" />
       <File FileName="test.iOS/AppDelegate.cs" Line="28" Column="13" />
       <File FileName="test.Android/MainActivity.cs" Line="20" Column="43" />
@@ -21,14 +21,14 @@
             <Node name="test" expanded="True">
               <Node name="Views" expanded="True">
                 <Node name="popup" expanded="True">
-                  <Node name="IntroductionPopup.xaml" expanded="True" />
+                  <Node name="IntroductionPopup.xaml" expanded="True">
+                    <Node name="IntroductionPopup.xaml.cs" selected="True" />
+                  </Node>
                 </Node>
                 <Node name="WordCounterPage.xaml" expanded="True" />
               </Node>
             </Node>
-            <Node name="test.Android" expanded="True">
-              <Node name="MainActivity.cs" selected="True" />
-            </Node>
+            <Node name="test.Android" expanded="True" />
             <Node name="test.iOS" expanded="True" />
           </Node>
         </State>
