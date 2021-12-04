@@ -61,3 +61,5 @@
 /Users/soshika/Projects/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-15.0/_ProcessedBundleResourcesPath.items
 /Users/soshika/Projects/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-15.0/_ProcessedContentPath.items
 /Users/soshika/Projects/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-15.0/optimized/
+/Users/soshika/Projects/test/test.iOS/bin/iPhoneSimulator/Debug/Rg.Plugins.Popup.dll
+/Users/soshika/Projects/test/test.iOS/bin/iPhoneSimulator/Debug/Rg.Plugins.Popup.pdb

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "U7RPIeQus8HgJkCJbF2EC7MY6ordr5umi4oj/0FqnW1lUQpvQqA4PGmk75bXHUub/SBSjGPoXOTuqPyFyMZI2g==",
+  "dgSpecHash": "IQw8lhBMn8Bbu1fcrhU3eiAz4ZnSin9JeiYn0ox7k+rMg/hjoJNcfntFObT26lWc39csBwwfHqCCML6yBaKNfA==",
   "success": true,
   "projectFilePath": "/Users/soshika/Projects/test/test.iOS/test.iOS.csproj",
   "expectedPackageFiles": [
+    "/Users/soshika/.nuget/packages/rg.plugins.popup/2.0.0.14/rg.plugins.popup.2.0.0.14.nupkg.sha512",
     "/Users/soshika/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/soshika/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
     "/Users/soshika/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"

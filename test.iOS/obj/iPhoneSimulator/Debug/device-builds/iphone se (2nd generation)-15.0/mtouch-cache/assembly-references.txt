@@ -24,3 +24,4 @@
 /Users/soshika/.nuget/packages/xamarin.forms/5.0.0.2012/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll
 /Users/soshika/Projects/test/test/bin/Debug/netstandard2.0/test.dll
 /Users/soshika/.nuget/packages/xamarin.forms/5.0.0.2012/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll
+/Users/soshika/.nuget/packages/rg.plugins.popup/2.0.0.14/lib/xamarinios10/Rg.Plugins.Popup.dll

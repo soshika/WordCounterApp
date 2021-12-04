@@ -14,3 +14,4 @@
 /Users/soshika/Projects/test/test/obj/Debug/netstandard2.0/test.dll
 /Users/soshika/Projects/test/test/obj/Debug/netstandard2.0/ref/test.dll
 /Users/soshika/Projects/test/test/obj/Debug/netstandard2.0/test.pdb
+/Users/soshika/Projects/test/test/obj/Debug/netstandard2.0/Views/popup/IntroductionPopup.xaml.g.cs

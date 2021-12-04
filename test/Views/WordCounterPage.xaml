@@ -17,7 +17,7 @@
             <Label Grid.Row="1" Text="{Binding Counter}" FontSize="50" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" />
             <Entry Grid.Row="2" VerticalOptions="Center" Placeholder="type something..." Text="{Binding Input}"  Margin="30, 0"/>
             <Button Grid.Row="3" Text="count!" Style="{StaticResource MainButton}" Command="{Binding SetCounter}" />
-            <Button Grid.Row="4" Text="count!!" Style="{StaticResource MainButton}" Command="{Binding SetCounter}" />
+            <Button Grid.Row="4" Text="tutorial" Style="{StaticResource MainButton}" Clicked="Button_Clicked"  />
         </Grid>
         
     </ContentPage.Content>

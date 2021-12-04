@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "90P1IKKBQZk2wVzfvFKoWxF6bwLiyDoKw7iZTnCWn9V3U7CCcjRryro4Zf74L4rETYq0lgMUK3YKqWS+F3qOWA==",
+  "dgSpecHash": "/IZ66Eibyw95rJ352oIB3bE4UUle6A0+Sb+KqwseMOKPnr01z2B7MPWHRuXEssbvfUENaf7r5oXt/8AcoPldUg==",
   "success": true,
   "projectFilePath": "/Users/soshika/Projects/test/test/test.csproj",
   "expectedPackageFiles": [
     "/Users/soshika/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/soshika/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/soshika/.nuget/packages/rg.plugins.popup/2.0.0.14/rg.plugins.popup.2.0.0.14.nupkg.sha512",
     "/Users/soshika/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/soshika/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
     "/Users/soshika/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"

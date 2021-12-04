@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ClzUeBw/2BSSKud7MGegJboXtBMb20Fp4ppuw2u/DYNvQcfOyd1TSaTMBX548RuytkSbhyKWJLUGHPvZx9oDtA==",
+  "dgSpecHash": "DAu7xnO/hkcw1g+ceq4sW/i6KdFzC0aUkMa5o9uZWZGFDVvAYXKzlLFCsyUGVcnHLwJgoDVv2An/pSJQZVA9Xg==",
   "success": true,
   "projectFilePath": "/Users/soshika/Projects/test/test.Android/test.Android.csproj",
   "expectedPackageFiles": [
+    "/Users/soshika/.nuget/packages/rg.plugins.popup/2.0.0.14/rg.plugins.popup.2.0.0.14.nupkg.sha512",
     "/Users/soshika/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/soshika/.nuget/packages/xamarin.androidx.activity/1.1.0.5/xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "/Users/soshika/.nuget/packages/xamarin.androidx.annotation/1.1.0.8/xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",
